@@ -4,7 +4,7 @@ PasscodeGen is a Python-based tool that generates secure, random passwords on de
 
 ## 🧠 Why I Built This
 
-As a working professional in law enforcement, I’m required to update my work passwords every few months. After running out of creative ideas, I decided to build this tool to quickly generate strong, base64-style passwords that meet security standards. My long-term goal is to turn this into a simple website that both I and my coworkers can use anytime, anywhere.
+As a working professional, I’m required to update my work passwords every few months. After running out of creative ideas, I decided to build this tool to quickly generate strong, base64-style passwords that meet security standards. My long-term goal is to turn this into a simple website that both I and my coworkers can use anytime, anywhere.
 
 ## 🚀 Features
 
